@@ -5,15 +5,15 @@ CRUD Operations (Create ,Read ,Update ,Delete) on their data, which will be stor
 Also ,the API provides an e-mail verification feature using a verification token.
 Request and response can be JSON or XML format.
 
-Programming language :
+* Programming language :
 Java 8
 Java Spring Framework, Spring Boot
-Security : Spring Security using JWT
-Data persistance : Spring Data JPA	
-DataBase : MySQL 
-Client API: Postman
-Project build: Maven
-IDE: IntelliJ IDEA
+* Security : Spring Security using JWT
+* Data persistance : Spring Data JPA	
+* DataBase : MySQL 
+* Client API: Postman
+* Project build: Maven
+* IDE: IntelliJ IDEA
 
 
 
