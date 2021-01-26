@@ -1,6 +1,6 @@
                                                        Banking-Web-Services
 
-This API provides RESTful Web Services for the bank.Users can connect via a client API,register and create one or more monetary accounts.Once created,customers can perform 
+This API provides RESTful Web Services for a bank.Users can connect via a client API,register and create one or more monetary accounts.Once created,customers can perform 
 CRUD Operations (Create ,Read ,Update ,Delete) on their data, which will be stored in a database.
 Also ,the API provides an e-mail verification feature using a verification token.
 Request and response can be JSON or XML format.
